@@ -36,3 +36,16 @@ Progress for: sumeet
 
 Recommended Problems:
 - Binary Tree DFS (Tree)
+
+
+
+
+---
+
+## ✅ After Push
+
+Send me your repo link. I’ll review and suggest final improvements.
+
+Ready to upload? 💪  
+Type: `ready` or `README ho gaya`  
+I'll help with anything else (like project thumbnail, cover image, etc).
