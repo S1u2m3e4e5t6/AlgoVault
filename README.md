@@ -1,5 +1,14 @@
 # AlgoVault 💻
 
+<img width="1379" height="956" alt="image" src="https://github.com/user-attachments/assets/1412f9ed-4673-4e6b-a19a-d04b882a5a93" />
+
+
+<img width="1222" height="961" alt="image" src="https://github.com/user-attachments/assets/6c3e0537-4464-4d0c-817c-8a7169f71f2a" />
+
+
+
+
+
 A CLI-based DSA Progress Tracker built in C++.
 
 ## 🔧 Features
